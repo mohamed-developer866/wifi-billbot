@@ -15,8 +15,8 @@ from datetime import date
 import yagmail
 
 # --- CONFIGURATION ---
-SENDER_EMAIL = "mohamedapsar769@gmail.com"
-SENDER_PASSWORD = "yzje usbu ogsb nmzv"  # Use Gmail App Password
+SENDER_EMAIL = "Sender Email"
+SENDER_PASSWORD = "Your Password"  # Use Gmail App Password
 SUPPORT_EMAIL = "support@wifibillbot.com"
 COMPANY_NAME = "WiFiBillBot"
 TODAY = date.today()
